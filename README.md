@@ -4,6 +4,6 @@ Solution architectures for enhancing business value, reducing cost and risk, and
 ## Orgnization of this Repository
 The contents of this repository is organized using the following hierarchy and taxonomy:
 * `industry_specialization` 
-.* `platform_capability`
-..* `context_diagram`
-..* `cloud_provider`
+** `platform_capability`
+*** `context_diagram`
+*** `cloud_provider`
