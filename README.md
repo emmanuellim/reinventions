@@ -6,4 +6,4 @@ The contents of this repository is organized using the following hierarchy and t
 * `industry_specialization`
  * `platform_capability`
    * `context_diagram`
-   
+
