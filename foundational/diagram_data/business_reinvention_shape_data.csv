@@ -1,11 +1,17 @@
-Id,Name,Shape Library,Page ID,Contained By,Group,Text Area 1,background,foreground,max,min,PROPERTY,thickness,total containers,total items,total unique items,VALUE,value (1)
-1,Page,,,,,Page 1,,,,,,,,,,,
-2,Rectangle Container,UML,1,,,Current State IT Investment Allocation,,,,,,,,,,,
-3,Text,Standard,1,,,Reinventing IT Investment Allocation,,,,,,,,,,,
-4,Progress Bar,Dynamic Shapes (New),1,2,,,#d7e9ffff,#4297ffff,100,0,current_state_rtb_label,100,,,,IT Investments to RUN THIS BUSINESS,80
+Id,Name,Shape Library,Page ID,Contained By,Group,Text Area 1,background,foreground,max,min,PROPERTY,thickness,total containers,total items,total unique items,value,VALUE,value (1)
+1,Page,,,,,Page 1,,,,,,,,,,,,
+2,Rectangle Container,UML,1,,,Current State Investment Allocation,,,,,,,,,,,,
+3,Text,Standard,1,,,Reinventing Business-IT Investments,,,,,,,,,,,,
+4,Progress Bar,Dynamic Shapes (New),1,2,,,#d7e9ffff,#4297ffff,100,0,current_state_rtb_label,100,,,,,IT Investments to RUN THIS BUSINESS,80
 5,Note,Flowchart Shapes,1,2,,"
-IT Investments to RUN THIS BUSINESS",,,,,current_state_rtb_label,,,,,IT Investments to RUN THIS BUSINESS,
+IT Investments to RUN THIS BUSINESS",,,,,current_state_rtb_label,,,,,,IT Investments to RUN THIS BUSINESS,
 6,Note,Flowchart Shapes,1,2,,"
-IT Investments to GROW THIS BUSINESS",,,,,current_state_ctb_label,,,,,IT Investments to GROW THIS BUSINESS,
-7,Group 1,,1,,,,,,,,,,0,0,0,,
-8,Page,,,,,Page 2,,,,,,,,,,,
+IT Investments to GROW THIS BUSINESS",,,,,current_state_ctb_label,,,,,,IT Investments to GROW THIS BUSINESS,
+7,Rectangle Container,UML,1,,,Target State Investment Allocation,,,,,,,,,,,,
+8,Progress Bar,Dynamic Shapes (New),1,7,,,#d7e9ffff,#4297ffff,100,0,,100,,,,70,,
+9,Note,Flowchart Shapes,1,7,,"
+IT Investments to RUN THIS BUSINESS",,,,,target_state_rtb_label,,,,,,IT Investments to RUN THIS BUSINESS,
+10,Note,Flowchart Shapes,1,7,,"
+IT Investments to EXPAND TO NEW BUSINESS",,,,,target_state_ctb_label,,,,,,IT Investments to EXPAND TO NEW BUSINESS,
+11,Group 1,,1,,,,,,,,,,0,0,0,,,
+12,Page,,,,,Page 2,,,,,,,,,,,,
