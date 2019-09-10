@@ -2,15 +2,15 @@ PROPERTY,VALUE
 diagram_name,Reinventing IT Investment Allocation
 reference_architecture_repo,https://github.com/emmanuellim/reinventions.git
 togaf_architecture_landscape_type,STRATEGIC_ARCHITECTURE
-current_state_rtb_label,IT Investments to RUN THE BUSINESS
-current_state_ctb_label,IT Investments to CHANGE THE BUSINESS
+current_state_rtb_label,IT Investments to RUN THIS BUSINESS
+current_state_ctb_label,IT Investments to GROW THIS BUSINESS
 current_state_rtb_part_1_label,App Feature Development
 current_state_rtb_part_2_label,App Maintenance
 current_state_rtb_part_3_label,Reserved Infrastructure Capacity
 current_state_ctb_part_1_label,New App Development
 current_state_ctb_Part_2_label,New Reserved Infrastructure Capacity
-target_state_rtb_label,IT Investments to RUN THE BUSINESS
-target_state_ctb_label,IT Investments to EXPAND THE BUSINESS
+target_state_rtb_label,IT Investments to RUN THIS BUSINESS
+target_state_ctb_label,IT Investments to EXPAND TO NEW BUSINESS
 target_state_rtb_part_1_label,App Feature Development
 target_state_rtb_part_2_label,App Maintenance
 target_state_rtb_part_3_label,Elastic Infrastructure Capacity
